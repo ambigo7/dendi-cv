@@ -1,0 +1,217 @@
+body{
+    background-image:url(http://localhost/kuliah-web/dendirizkapoetra-cv/images/background.png);
+    background-size: auto;
+    background-color: #f0f0f0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 200px;
+    /*! background-attachment: fixed; */
+    width: 100%;
+}
+.container #profil {
+    background-color: white;
+    background-position: center center;
+    box-shadow: 0 0 25px;
+    width: 28%;
+    height: 1102.5px;
+    text-align: justify;
+    float: left;
+    padding: 0 8px;
+        padding-right: 8px;
+    padding-right: 16px;
+
+}
+.container-padding {
+    box-shadow: 0 0 25px;
+    width: 65%;
+    height: 765px;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    color:rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    line-height: 22.5px;
+    margin-left: 32%;
+    padding-bottom: 0.15px;
+    padding-left: 16px;
+    padding-top: 0.15px;
+}
+.padding-bottom {
+    box-shadow: 0 0 25px;
+    width: 65%;
+    position: bottom;
+    height: 322px;
+    background-color:rgb(255, 255, 255);
+    box-sizing: border-box;
+    color:rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    line-height: 22.5px;
+    margin-left: 32%;
+    padding-bottom: 0.15px;
+    padding-left: 16px;
+    padding-top: 0.15px;
+    margin-top: 16px;
+}
+.padding-bottom .bottom .konten2 {
+  padding: 10px;
+  padding-top: 0px;
+  padding-right: 20px;
+}
+.container #profil .load {
+    background-color: rgb(241, 241, 241);
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.container-padding .padding {
+  text-align: left;
+}
+.container #profil .load .progres {
+  background-color: #96000e !important;
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  color: #ffff !important;
+  text-align: center;
+}
+.container #profil .load2 {
+  background-color: rgb(241, 241, 241);
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+}
+.container #profil .load2 .progres2 {
+  background-color:  #96000e !important;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  color:  #ffff !important;
+  text-align: center;
+}
+.container #profil .load3 {
+  background-color: rgb(241, 241, 241);
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  line-height: 18px;
+}
+.container #profil .load3 .progres3 {
+  background-color: #96000e !important;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  color: #fff !important;
+  text-align: center;
+  line-height: 18px;
+  font-size: 12px;
+}
+.container #profil #foto_saya {
+  width: 75%;
+  height: 225.18px;
+  line-height: 1.5px;
+  padding: 10px 55px;
+  border-radius: 50%;
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+  margin-top: -20px;
+}
+h4 {
+  padding-top: -10px;
+  text-align: center;
+  margin-top: -20px;
+}
+i {
+  padding: 5px;
+  color: #009688 !important;
+}
+hr {
+  border: -1px solid gray;
+}
+.container-padding .padding .konten1 {
+  padding: 14px;
+}
+.container-padding .padding .konten2 {
+  padding: 14px;
+}
+.container-padding .padding .konten3 {
+  padding: 16px;
+}
+.container-padding .padding .konten4 {
+  padding: 16px;
+}
+.container #profil #email {
+  width: 5%;
+  padding-top: 1px; ;
+  padding-left: 10px;
+}
+.container #profil .medsos {
+  width: 5%;
+  padding: 1px 0px;
+}
+.container #profil .foto_diprofil{
+    width: 15px;
+    padding-right: 5px;
+}
+.container-padding .padding .foto_kalender {
+  width: 15px;
+  padding-right: 5px;
+}
+.container #profil #foto_bahasa {
+  width: 23px;
+  padding-right: 5px;
+}
+.container-padding .padding #foto_sekolah {
+    width: 30px;
+    padding-right: 5px;
+}
+.padding-bottom .bottom .foto_cerita {
+  width: 25px;
+  padding-right: 5px;
+  padding-bottom: 0px;
+}
+#isi_cerita {
+  text-align: justify;
+}
+.padding-bottom .bottom .copyright {
+    padding: 10px;
+    margin: 20px;
+}
+.padding-bottom .bottom .copyright #isi_copyright {
+    font-size: 11px;
+    font-weight: bolder;
+    text-align: right;
+    font-style: italic;
+}
